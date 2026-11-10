@@ -70,7 +70,7 @@ The dataset contains:
 
 ### Correlation Heatmap
 
-![Correlation Heatmap](correlation_heatmap.png)
+![Correlation Heatmap](Task_1_Classification/Images/correlation_heatmap.png)
 
 ### Species Distribution
 
