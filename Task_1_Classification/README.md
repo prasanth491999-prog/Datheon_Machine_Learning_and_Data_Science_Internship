@@ -70,7 +70,7 @@ The dataset contains:
 
 ### Correlation Heatmap
 
-![Correlation Heatmap](Task_1_Classification/Images/correlation_heatmap.png)
+![Correlation Heatmap]([correlation_heatmap.png](https://github.com/prasanth491999-prog/Datheon_Machine_Learning_and_Data_Science_Internship/blob/main/Task_1_Classification/Images/correlation_heatmap.png))
 
 ### Species Distribution
 
