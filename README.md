@@ -127,7 +127,14 @@ I look forward to learning new techniques, completing more challenging tasks, an
 
 ## 👨‍💻 Author
 
-**GitHub:** [@futuristicchakri3](https://github.com/futuristicchakri3)
+**GitHub:** ## 👨‍💻 Author
+
+**GitHub:** [@prasanth491999-prog](https://github.com/prasanth491999-prog)
+
+---
+
+⭐ Thank you for visiting my repository!  
+**Learning • Building • Exploring Data Science**
 
 ---
 
