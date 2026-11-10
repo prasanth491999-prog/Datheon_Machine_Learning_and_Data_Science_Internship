@@ -2,7 +2,7 @@
 
 ### Correlation Heatmap
 
-![Correlation Heatmap](./images/correlation_heatmap.png)
+![Correlation Heatmap](./Images/correlation_heatmap.png)
 
 ### Species Distribution
 
