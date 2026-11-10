@@ -257,4 +257,4 @@ jupyter notebook
 </p>
 ## 📓 Jupyter Notebook
 
-[View Classification Pipeline](Notebook/classification_pipeline.ipynb)
+[View Classification Pipeline](notebook/classification_pipeline.ipynb)
