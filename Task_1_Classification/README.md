@@ -255,3 +255,6 @@ jupyter notebook
 <p align="center">
   Built with Python and Machine Learning.
 </p>
+## 📓 Jupyter Notebook
+
+[View Classification Pipeline](Notebook/classification_pipeline.ipynb)
