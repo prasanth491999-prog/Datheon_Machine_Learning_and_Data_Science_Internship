@@ -232,8 +232,7 @@ pip install -r requirements.txt
 ```bash
 jupyter notebook
 ```
-**Step 5:** Open `classification_pipeline.ipynb` and run the cells.
-
+**Step 5:** Open [View Classification Pipeline](notebook/classification_pipeline.ipynb)
 ---
 
 ## 👨‍💻 Internship Details
