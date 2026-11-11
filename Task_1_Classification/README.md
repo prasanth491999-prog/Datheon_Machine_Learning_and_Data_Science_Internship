@@ -187,12 +187,11 @@ The project provided practical experience in:
 
 ## 📁 11. Repository Structure
 
-```text
 Task_1_Classification/
 │
 ├── Dataset/
 │
-├── images/
+├── Images/
 │   ├── correlation_heatmap.png
 │   ├── species_distribution.png
 │   ├── pairplot.png
@@ -201,17 +200,19 @@ Task_1_Classification/
 │   ├── logistic_regression_boundary.png
 │   └── decision_tree_boundary.png
 │
-├── classification_pipeline.ipynb
+├── notebook/
+│   └── classification_pipeline.ipynb
+│
 ├── requirements.txt
 └── README.md
-```
+
 
 ## ▶️ 12. How to Run This Project
 
 **Step 1:** Clone the repository.
 
 ```bash
-git clone https://github.com/futuristicchakri3/Datheon_Machine_Learning_and_Data_Science_Internship.git
+git clone https://github.com/prasanth491999-prog/Datheon_Machine_Learning_and_Data_Science_Internship.git
 ```
 
 **Step 2:** Navigate to the project folder.
@@ -231,7 +232,6 @@ pip install -r requirements.txt
 ```bash
 jupyter notebook
 ```
-
 **Step 5:** Open `classification_pipeline.ipynb` and run the cells.
 
 ---
