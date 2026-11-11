@@ -1,10 +1,19 @@
-🚀 Datheon – Machine Learning and Data Science Internship
+# 🚀 Datheon – Machine Learning and Data Science Internship
 
-"Python" (https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)
-"Machine Learning" (https://img.shields.io/badge/Machine%20Learning-Scikit--learn-orange)
-"Data Science" (https://img.shields.io/badge/Data%20Science-Projects-green)
-"Jupyter" (https://img.shields.io/badge/Notebook-Jupyter-orange?logo=jupyter)
-"Status" (https://img.shields.io/badge/Status-In%20Progress-blue)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Internship-In%20Progress-blue?style=flat-square" alt="Internship Status"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-Classification-orange?style=flat-square" alt="Machine Learning"/>
+</p>
+
 
 Welcome to my Datheon Machine Learning and Data Science Internship repository.
 
