@@ -91,33 +91,7 @@ Datheon_Machine_Learning_and_Data_Science_Internship/
 - Jupyter Notebook development
 - GitHub project documentation
 
-## ⚙️ How to Run the Projects
-
-1. Clone this repository:
-
-```bash
-git clone https://github.com/futuristicchakri3/Datheon_Machine_Learning_and_Data_Science_Internship.git
 ```
-
-2. Navigate to the project directory:
-
-```bash
-cd Datheon_Machine_Learning_and_Data_Science_Internship/Task_1_Classification
-```
-
-3. Install the required libraries:
-
-```bash
-pip install -r requirements.txt
-```
-
-4. Launch Jupyter Notebook:
-
-```bash
-jupyter notebook
-```
-
-5. Open `Notebook/classification_pipeline.ipynb` and run the cells.
 
 ## 🏆 Conclusion
 
@@ -127,14 +101,7 @@ I look forward to learning new techniques, completing more challenging tasks, an
 
 ## 👨‍💻 Author
 
-**GitHub:** ## 👨‍💻 Author
-
 **GitHub:** [@prasanth491999-prog](https://github.com/prasanth491999-prog)
-
----
-
-⭐ Thank you for visiting my repository!  
-**Learning • Building • Exploring Data Science**
 
 ---
 
